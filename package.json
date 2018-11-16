@@ -111,6 +111,7 @@
     "copy-webpack-plugin": "^4.0.1",
     "extract-text-webpack-plugin": "^2.1.0",
     "html-webpack-plugin": "^2.28.0",
+    "jshint": "^2.9.6",
     "json-loader": "^0.5.7",
     "mkdirp": "^0.5.1",
     "mocha": "^5.2.0",
